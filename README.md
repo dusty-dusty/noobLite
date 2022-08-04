@@ -1,2 +1,1 @@
-# noobLite
-All of NoobLite scripts will be here
+# Run multiple noobLite scripts at once
