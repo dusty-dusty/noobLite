@@ -1,0 +1,1 @@
+# Auto eat and pot when needed
